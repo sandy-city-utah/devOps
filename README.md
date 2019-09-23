@@ -10,7 +10,7 @@ Looking forward and thank you!
 
 ### PART 1 WRITE A SIMPLE TEST API
 
-Choose Test A or Test B depending upon your skill level and time.
+On Part 1 choose Test A or Test B depending upon your skill level and time. Proceed to Part 2 deployment.
 
 Test A- Hello World Basic API
 - Using the server-side language and framework of your choice (EXP Node js and Express) build a simple "Hello World" API endpoint that can be tested in postman.
