@@ -13,13 +13,13 @@ Looking forward and thank you!
 On Part 1 choose Test A or Test B depending upon your skill level and time. Proceed to Part 2 deployment.
 
 Test A- Hello World Basic API
-- Using the server-side language and framework of your choice (EXP Node js and Express) build a simple "Hello World" API endpoint that can be tested in postman.
+- Using the server-side language and framework of your choice, (exp. Node js and Express), build a simple "Hello World" API endpoint that can be tested in postman.
 
 Test B- Hello World Restful API
 - Persist the "Hello World" string in a SQL database.
 - Make a RESTful API with routes that enable CRUD operations.
 
-Optional Bonus: Use the testing framework of your choice per the tech stack you've chosen, write an automated unit test for the endpoint.  
+Optional Bonus: With the testing framework of your choice write an automated unit test for the endpoint(s).  
 
 
 ### PART 2- CONFIGURE THE TEST SERVER AND DEPLOY
@@ -32,10 +32,10 @@ Optional Bonus: Implement any continuous deployment automation functionality.
 
 - [x] What tech stack did you choose to build with and why?
 
-- [x] Describe your design/organization structure of the mini API code base. Did you base your choices off of any particular design architecture?
+- [x] Describe your design structure of the mini API code base. Did you base your choices off of any particular architecture pattern?
 
 - [x] Describe your server configuration and deployment process choices?
 
-- [x] How you would implement an automated deployment process instead of manual deployment i.e. any workflows, tools, libraries, and methodologies...
+- [x] How would you implement an automated deployment process instead of manual deployment i.e. describe any workflows, tools, libraries, and methodologies...
 
-- [x] What did you identify and consider as vulnerabilities during any of this process? What safeguards to did you put in place to address these as well as any secrets or non-public components.
+- [x] What did you identify as potential or real vulnerabilities during this process? What safeguards did/would you put in place to address these? How did you protect credentials, secrets, and/or non-public components.
